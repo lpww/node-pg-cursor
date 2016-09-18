@@ -15,5 +15,7 @@
     "pg": "~6.0.0",
     "mocha": "~1.17.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "resolve": "^1.1.7"
+  }
 }
